@@ -1,0 +1,4 @@
+confluent-kafka
+pymongo
+opencv-python
+tensorflow==2.3.0
